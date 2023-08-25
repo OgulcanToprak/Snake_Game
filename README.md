@@ -14,7 +14,7 @@ How to Play
 
 Clone or download the repository.
 Compile and run the Main.java file to launch the game.
-Control the snake's direction using arrow keys or WASD.
+Control the snake's direction using  WASD.
 The snake's objective is to consume apples to grow longer and earn points.
 The game ends if the snake collides with the screen boundaries or itself.
 After the game ends, the final score is displayed on the screen.
