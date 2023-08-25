@@ -30,8 +30,8 @@ Screenshots
 
 Acknowledgments
 
-The project was inspired by the classic Snake game.
-The game logic and graphics were designed and implemented by [Your Name].
+The project was inspired by the Bro Code Snake game.
+The game logic and graphics were designed and implemented by Ogulcan Toprak.
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
