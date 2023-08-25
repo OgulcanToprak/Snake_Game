@@ -4,7 +4,7 @@ This project is a classic Snake game implemented in Java using Swing for the gra
 
 Features
 
-Control the snake's direction using arrow keys or WASD.
+Control the snake's direction using  WASD.
 The snake grows in length and speed as it consumes apples.
 Collision detection with the screen boundaries and the snake's own body.
 Game over screen displaying the final score.
